@@ -1,0 +1,12 @@
+ideias
+
+animais.info
+
+Menu
+Trabalho 2
+
+Coteudo
+Animais em extinção
+https://endangeredanimals.docs.apiary.io/#reference/0/habitat/get:-/all_animal_data
+
+Menu com os tipos de animais (Aves, Repteis, etc)
